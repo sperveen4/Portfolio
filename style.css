@@ -1,0 +1,176 @@
+html {
+	background: #000080;
+	color: white;
+	font-family:'Noto Sans', sans-serif;
+}
+
+
+h2{
+	font-size: 1.5em;
+}
+nav {
+  align-items: center;
+  padding-top: 2%;
+  padding-left: 1%;
+  padding-right: 1%;
+  width: 100%;
+}
+
+
+nav * {
+  display: inline;
+}
+
+nav li {
+  margin: 15px;
+}
+div.page{
+	padding: 0px 170px 0px 170px;
+}
+a {
+	color: white;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+nav.horizentol{
+	position: relative;
+	margin-left: 500px;
+	margin-top: -55px;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+section.education{
+	padding-left: 90px;
+	padding-right: 150px;
+
+}
+
+section.techSkills{
+	padding-left: 90px;
+	padding-right: 150px;
+}
+section.experience{
+	padding-left: 90px;
+	padding-right: 150px;
+}
+section.prog{
+	padding-left: 90px;
+	padding-right: 150px;
+}
+section.exp{
+	padding-left: 90px;
+	padding-right: 150px;
+}
+section.Work{
+	padding-left: 90px;
+	padding-right: 150px;
+}
+section.reg{
+	padding-left: 90px;
+	padding-right: 150px;
+}
+section.hon{
+	padding-left: 90px;
+	padding-right: 150px;
+}
+section.vol{
+	padding-left: 90px;
+	padding-right: 150px;
+}
+
+div#page {
+	width: 90%;
+	margin-left: 90%;
+	margin-right: auto;
+	background-color:burlywood;
+	color: white;
+	
+
+}
+
+section#right.navigation{
+	
+	margin-bottom: -500px;
+	
+}
+
+h1{ 
+	font-family: Arial;
+    font-size: 40px;
+    font-weight: 900;
+    margin-top: -5;
+    padding-bottom: 30px;
+    position: relative;
+	color: white;
+	text-align: center; 
+}
+
+div#site {
+	background-color: blue;
+	
+	padding: 15px;
+	
+	
+}
+
+h2{
+    font-size: 28px;
+	color: #B80C29;
+	text-align: center; 
+}
+nav{
+	width: 28%;
+	height: 28%;
+	margin-left: -14px;
+	position: relative;
+	color: white;
+}
+
+a.LinkedInLink{
+	color: white;
+	list-style: remove;
+}
+
+a.Email{
+	color: white;
+}
+HR.footerBreak {
+	position: relative;
+	margin-top: 75px;
+}
+a.downlaodLink{
+	color: blue;
+	
+	
+}
+button{
+	
+	color: gray;
+}
+
+#additional{
+	background-color: black;
+	color: white;
+	margin-block-start: 45%;
+	position: relative;
+	padding: 50px;
+}
+
+footer#additional-info.footer{
+	color: #0AF1F1;
+}
+.footer {
+    background-color: #FFFFFFF;
+    font-size: 1.2em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 0.3em;
+	list-style: none;
+}
+
+ul.additional-info-list {
+    list-style: none;
+}
